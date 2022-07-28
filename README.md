@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iampoonamthakur
-- 👀 I’m interested in reading
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning CSE
 - 📫 How to reach me pt9109387@gmail.com
 
